@@ -2,7 +2,7 @@
 My quick VyOS firewall configuration using command line
 Files should be place into /opt/vyatta/etc/config/
 
-This is my working config which is complete with port forwarding, custom dns server, and IPV6 support using the command line firewall OS called VyOS.
+This is my working config which is complete with port forwarding, cake qos, custom dns server, and IPV6 support using the command line firewall OS called VyOS.
 
 ## config.boot
 ```
